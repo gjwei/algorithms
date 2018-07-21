@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82cf9e58-a705-40bf-91e1-e44f891fa29b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Basic/map.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedList/LRU.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedList/LinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedList/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/linkedList/operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heap/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heap/heap.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basic/stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basic/stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedList/LRU.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedList/LRU.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,11 +64,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LRU.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LRU.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/linkedList/LRU.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+            <state relative-caret-position="404">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="heap.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/heap/heap.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -98,6 +104,7 @@
         <option value="$PROJECT_DIR$/linkedList/LinkedList.py" />
         <option value="$PROJECT_DIR$/linkedList/operations.py" />
         <option value="$PROJECT_DIR$/linkedList/LRU.py" />
+        <option value="$PROJECT_DIR$/heap/heap.py" />
       </list>
     </option>
   </component>
@@ -135,7 +142,7 @@
             <path>
               <item name="algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,8 +289,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/linkedList/LRU.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        <state relative-caret-position="404">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/heap/heap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
