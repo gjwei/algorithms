@@ -15,4 +15,3 @@ class BSTNode():
 def count_smaller(nums):
     if len(nums) == 0:
         return []
-    
