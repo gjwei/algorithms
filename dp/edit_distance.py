@@ -11,3 +11,4 @@ def edit_distance(s1, s2):
                 dp[i + 1][j + 1] = min(dp[i][j + 1],  # delete
                                        dp[i + 1][j],  # insert
                                         dp[i][j]) + 1  # replace
+    return dp[len(s2)][len(s1)]
