@@ -10,6 +10,8 @@ def count_1s(n):
         n &= (n - 1)
     return result
 
+def hello(a):
+    print(a)
 
 if __name__ == '__main__':
     n = 3
